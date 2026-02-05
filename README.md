@@ -11,10 +11,8 @@ Perfect as a beginner front-end project or a starting template for authenticatio
 ## ✨ Features
 
 ✅ Clean modern design  
-✅ Fully centered layout (Flexbox)  
+✅ Fully centered layout   
 ✅ Username & password inputs  
 ✅ Required field validation  
 ✅ Hover button effects  
-✅ Lightweight (no frameworks)
-
----
+✅ Lightweight (no framework)
